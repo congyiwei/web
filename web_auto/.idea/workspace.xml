@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53e55162-dbee-4350-9c75-29fa7e060816" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="web_auto1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ryi2TkwSiW4ika6uFKypweWV69" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/common" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm 2019.2.3\web_auto1\js" />
+      <recent name="D:\PyCharm 2019.2.3\web_auto1" />
+      <recent name="D:\PyCharm 2019.2.3\web_auto1\common" />
+      <recent name="D:\PyCharm 2019.2.3\web_auto1\pages" />
+      <recent name="D:\PyCharm 2019.2.3\xuexi\web\fengzhuang" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PyCharm 2019.2.3\web_auto1\common" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.riqixiugai">
+    <configuration name="c7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../xuexi/zuoye" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../xuexi/zuoye/c7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="j11s" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_auto1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyCharm 2019.2.3\web_auto1\js\j11s.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="jquery1111" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_auto1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyCharm 2019.2.3\web_auto1\js\jquery1111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="riqixiugai" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="web_auto1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\PyCharm 2019.2.3\web_auto1\js\riqixiugai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in test_ddt.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="web_auto1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/case/test_ddt.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.riqixiugai" />
+        <item itemvalue="Python.jquery1111" />
+        <item itemvalue="Python.j11s" />
+        <item itemvalue="Python.c7" />
+        <item itemvalue="Python tests.Unittests in test_ddt.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53e55162-dbee-4350-9c75-29fa7e060816" name="Default Changelist" comment="" />
+      <created>1570645528633</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570645528633</updated>
+      <workItem from="1570645529779" duration="14734000" />
+      <workItem from="1570722163420" duration="44735000" />
+      <workItem from="1570879809650" duration="65419000" />
+      <workItem from="1571127146786" duration="16832000" />
+      <workItem from="1571214863195" duration="1399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_test_logt_Login_pages.coverage" NAME="Unittests for test_logt.Login_pages Coverage Results" MODIFIED="1570969785763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$for.coverage" NAME="for循环 Coverage Results" MODIFIED="1570800319680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/p/分支、循环、条件与枚举" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_test_ddt_Login_pages_test_test_01.coverage" NAME="Unittests for test_ddt.Login_pages_test.test_01 Coverage Results" MODIFIED="1571124904324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_in_test_logt_py.coverage" NAME="Unittests in test_logt.py Coverage Results" MODIFIED="1571128038245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$login_pge.coverage" NAME="login_pge Coverage Results" MODIFIED="1571128626699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_test_login_test_Login_pages.coverage" NAME="Unittests for test_login_test.Login_pages Coverage Results" MODIFIED="1570967317835" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$c5.coverage" NAME="c5 Coverage Results" MODIFIED="1571065203354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/zuoye" />
+    <SUITE FILE_PATH="coverage/web_auto1$c2.coverage" NAME="c2 Coverage Results" MODIFIED="1570974679994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/web/fengzhuang" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_in_test02_py.coverage" NAME="Unittests in test02.py Coverage Results" MODIFIED="1570728116916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/web/fengzhuang" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_test__add_bug_Add_bug_test.coverage" NAME="Unittests for test__add_bug.Add_bug_test Coverage Results" MODIFIED="1571055298825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_test__add_bug_Add_bug_test_test_add_bug.coverage" NAME="Unittests for test__add_bug.Add_bug_test.test_add_bug Coverage Results" MODIFIED="1570901349993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_test_logt_Login_pages_test.coverage" NAME="Unittests for test_logt.Login_pages_test Coverage Results" MODIFIED="1570972927948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$c4.coverage" NAME="c4 Coverage Results" MODIFIED="1571042333515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/zuoye" />
+    <SUITE FILE_PATH="coverage/web_auto1$c1.coverage" NAME="c1 Coverage Results" MODIFIED="1570896443487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_in_testLogin0102_py.coverage" NAME="Unittests in testLogin0102.py Coverage Results" MODIFIED="1571125467371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_test02_Login_test.coverage" NAME="Unittests for test02.Login_test Coverage Results" MODIFIED="1570728214687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/web/fengzhuang" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_in_test_login_test_py.coverage" NAME="Unittests in test_logt.py Coverage Results" MODIFIED="1571020076732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_testLogin0102_LoginTest_test_02.coverage" NAME="Unittests for testLogin0102.LoginTest.test_02 Coverage Results" MODIFIED="1570727736660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$pom.coverage" NAME="pom Coverage Results" MODIFIED="1570958034737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/web/fengzhuang" />
+    <SUITE FILE_PATH="coverage/web_auto1$c7.coverage" NAME="c7 Coverage Results" MODIFIED="1571131590352" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/zuoye" />
+    <SUITE FILE_PATH="coverage/web_auto1$c2__1_.coverage" NAME="c2 (1) Coverage Results" MODIFIED="1570809678813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/web/fengzhuang" />
+    <SUITE FILE_PATH="coverage/web_auto1$login_page.coverage" NAME="login_page Coverage Results" MODIFIED="1570967012861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/web_auto1$add_bug.coverage" NAME="add_bug Coverage Results" MODIFIED="1571053896473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
+    <SUITE FILE_PATH="coverage/web_auto1$c3__1_.coverage" NAME="c3 (1) Coverage Results" MODIFIED="1570810295982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/web/fengzhuang" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_test_ddt_Login_pages_test.coverage" NAME="Unittests for test_ddt.Login_pages_test Coverage Results" MODIFIED="1571125420511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$jquery1111.coverage" NAME="jquery1111 Coverage Results" MODIFIED="1571144120910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web_auto1$run_all.coverage" NAME="run_all Coverage Results" MODIFIED="1570653490657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web_auto1$j11s.coverage" NAME="j11s Coverage Results" MODIFIED="1571142113164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web_auto1$riqixiugai.coverage" NAME="riqixiugai Coverage Results" MODIFIED="1571146658740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_test_ddt_Login_pages_test_test_02.coverage" NAME="Unittests for test_ddt.Login_pages_test.test_02 Coverage Results" MODIFIED="1571128332633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$c3.coverage" NAME="c3 Coverage Results" MODIFIED="1571062120101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/web/fengzhuang" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_in_test_ddt_py.coverage" NAME="Unittests in test_ddt.py Coverage Results" MODIFIED="1571130067235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$mian.coverage" NAME="mian Coverage Results" MODIFIED="1570726373258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/p/面向对象和函数" />
+    <SUITE FILE_PATH="coverage/web_auto1$dui3.coverage" NAME="dui3 Coverage Results" MODIFIED="1570726284479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/p/面向对象和函数" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_test_logt_Login_pages_test_test_06.coverage" NAME="Unittests for test_logt.Login_pages_test.test_06 Coverage Results" MODIFIED="1571042907657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_testLogin0102_LoginTest_test_01.coverage" NAME="Unittests for testLogin0102.LoginTest.test_01 Coverage Results" MODIFIED="1570727707660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$Unittests_for_testLogin0102_LoginTest.coverage" NAME="Unittests for testLogin0102.LoginTest Coverage Results" MODIFIED="1570727831344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/case" />
+    <SUITE FILE_PATH="coverage/web_auto1$c6.coverage" NAME="c6 Coverage Results" MODIFIED="1571066930142" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../xuexi/zuoye" />
+  </component>
+</project>
